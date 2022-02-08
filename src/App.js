@@ -10,7 +10,6 @@ import Search from './pages/search/Search'
 // styles
 import './App.css'
 
-
 function App() {
   return (
     <div className="App">
