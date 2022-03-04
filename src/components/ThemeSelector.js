@@ -28,8 +28,8 @@ const ModeToggle = styled.div`
     margin-right: auto; 
     
     img {
-        width: 24px;
-        height: 24px; 
+        width: 25px;
+        height: 25px; 
         cursor: pointer;
     }
 
